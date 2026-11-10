@@ -1,6 +1,8 @@
 # Slope offline
 Modded slope because Y8 slopified it
 
+Based on Slope v1.3 (imo the last good version) 
+
 **Currently unfinished!**
 
 ## Roadmap
