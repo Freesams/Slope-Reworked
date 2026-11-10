@@ -1,7 +1,12 @@
 # Slope offline
-Its a HTML download for slope and a site hosting it
+Modded slope because Y8 slopified it
+**Currently unfinished!**
 
-Everything (including login) works!
+## Roadmap
+0. Beta phase /
+1. Full release (1.0)
+2. Multiplayer
+3. Mod loader
 
 # Hamburger
 They know
